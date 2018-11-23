@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "text": "功能模块",
+    "children": [
+      {
+        "id": 11,
+        "text": "系统管理",
+        "children": [
+          {
+            "id": 111,
+            "text": "用户管理"
+          },
+          {
+            "id": 112,
+            "text": "角色管理"
+          },
+          {
+            "id": 113,
+            "text": "权限管理"
+          }
+        ]
+      },
+      {
+        "id": 12,
+        "text": "招聘管理",
+        "state": "closed",
+        "children": [
+          {
+            "id": 121,
+            "text": "Intel"
+          },
+          {
+            "id": 122,
+            "text": "Java"
+          },
+          {
+            "id": 123,
+            "text": "Microsoft Office"
+          },
+          {
+            "id": 124,
+            "text": "Games"
+          }
+        ]
+      }
+    ]
+  }
+]
